@@ -18,7 +18,7 @@ public:
     ~Queue();
 
     int dequeue();
-    void enqueue(int x);
+    void enqueue(int item);
     int peek();
     int size();
     bool isEmpty();
