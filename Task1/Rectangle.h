@@ -2,23 +2,23 @@
 class Rectangle
 {
 public:
-	Rectangle(double x, double y)
-		: x_(x),
-		  y_(y)
+	Rectangle(double width, double height)
+		: _width(width),
+		  _height(height)
 	{
 	}
 
-	double x() const
+	double width() const
 	{
-		return x_;
+		return _width;
 	}
 
-	double y() const
+	double height() const
 	{
-		return y_;
+		return _height;
 	}
 
 private:
-	double x_;
-	double y_;
+	double _width;
+	double _height;
 };

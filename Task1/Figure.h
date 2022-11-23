@@ -1,4 +1,6 @@
 #pragma once
+#include "Rectangle.h"
+
 class Figure
 {
 	virtual double    Perimeter() const = 0;
