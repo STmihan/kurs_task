@@ -4,10 +4,8 @@
 #include "Queue.h"
 #include "Pentagon.h"
 
-int main(int argc, char* argv[])
+void printFigures()
 {
-	srand(time(NULL));
-
 	Queue<Figure*> queue(100);
 	for (size_t i = 0; i < 100; i++)
 	{
@@ -38,4 +36,13 @@ int main(int argc, char* argv[])
 			delete figure;
 		}
 	}
+}
+
+int main(int argc, char* argv[])
+{
+	srand(time(NULL));
+
+	printFigures();
+
+	return 0;
 }
