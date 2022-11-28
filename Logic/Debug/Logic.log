@@ -1,0 +1,21 @@
+﻿  Circle.cpp
+C:\Projects\EgorsTask\Logic\src\Circle.cpp(14,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Projects\EgorsTask\Logic\src\Circle.cpp(14,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Projects\EgorsTask\Logic\src\Circle.cpp(15,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Projects\EgorsTask\Logic\src\Circle.cpp(15,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Projects\EgorsTask\Logic\src\Circle.cpp(16,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Projects\EgorsTask\Logic\src\Circle.cpp(16,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Projects\EgorsTask\Logic\src\Circle.cpp(17,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Projects\EgorsTask\Logic\src\Circle.cpp(17,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Queue.cpp
+  Rectangle.cpp
+C:\Projects\EgorsTask\Logic\src\Rectangle.cpp(18,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Projects\EgorsTask\Logic\src\Rectangle.cpp(17,105): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Projects\EgorsTask\Logic\src\Rectangle.cpp(20,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Projects\EgorsTask\Logic\src\Rectangle.cpp(19,101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Projects\EgorsTask\Logic\src\Rectangle.cpp(22,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Projects\EgorsTask\Logic\src\Rectangle.cpp(21,98): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Projects\EgorsTask\Logic\src\Rectangle.cpp(24,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Projects\EgorsTask\Logic\src\Rectangle.cpp(23,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Logic.vcxproj -> C:\Projects\EgorsTask\Debug\Logic.lib
